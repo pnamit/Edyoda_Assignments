@@ -1,0 +1,8 @@
+food_id,food_name,food_desc_units,food_on_the_menu,food_price,food_discount,food_avlbl_stock
+FO01,Tandoor Chkn,4 pieces,Y,220,5,2
+FO03,Truffle Cake,500 grams,Y,900,5,0
+FO02,Vegan Burger,1 piece,Y,200,10,10
+FO07,Texas Fries,1 portion,Y,130,5,15
+FO09,Veg Pizza,8 inch,Y,220,5,19
+FO05,Veg Momos,8 pieces,Y,150,5,20
+FO04,Walnut Brownie,1 Piece,Y,75,0,37
